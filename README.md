@@ -11,6 +11,9 @@ There is 2 option to install Tensorflow API. You can follow [original repo](http
 ### Extra Libraries
 + PyQt5  to install `pip install PyQt5`
 
+### Protobuff installition
+I Used protobuf 3.4.0 in this project. You can see protobuff versions [over here](https://github.com/protocolbuffers/protobuf/releases)
+
 ### COCO API Installition
 Go to [this repo](https://github.com/cocodataset/cocoapi) and download it. To install it you can [visit here](https://medium.com/@abinovarghese/installing-coco-api-in-windows-python-9b4dfc3812ef).
 
@@ -37,6 +40,8 @@ inference graph files and training files  can be created following  [this repo](
 ### in the training folder these files should in it
 + labelmap.pbtxt
 + .... .config file
+
+***if you want me to share my models graph please send me an e-mail***
 
 
 
