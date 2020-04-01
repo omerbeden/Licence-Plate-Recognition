@@ -20,16 +20,23 @@ Go to [this repo](https://github.com/cocodataset/cocoapi) and download it. To in
 
 ### Don't Forget
 Before the run this project , dont forget you should have these files in .../models/research/object_detection folder
-+inference_graph
-+inference_graph2
-+training
-+training2
++ inference_graph
++ inference_graph2
++ training
++ training2
 
 inference graph files and training files  can be created following  [this repo](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
-in the training folder these files should in it
-+labelmap.pbtxt
-+.... .config file
+## Dataset
++ I collect the dataset from google images
++ [car dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
++ [AOLP dataset](https://github.com/HaoRecog/AOLP)
++ Hsu, G.-S.; Chen, J.-C. and Chung, Y.-Z., "Application-Oriented License Plate Recognition," Vehicular Technology, IEEE Trans., vol.62, no.2, pp.552-561, Feb. 2013
+
+
+### in the training folder these files should in it
++ labelmap.pbtxt
++ .... .config file
 
 
 
