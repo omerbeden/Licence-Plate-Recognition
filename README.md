@@ -27,6 +27,7 @@ Before the run this project , dont forget you should have these files in .../mod
 + inference_graph2
 + training
 + training2
++ also don't forget to move images_inference file in this repo to ojbect_detection file because the application gets the image from this folder
 
 inference graph files and training files  can be created following  [this repo](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
