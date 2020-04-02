@@ -1,5 +1,6 @@
 # Licence-Plate-Recognition
 Licence Plate Recognition Using Tensorflow Object Detection API
++ To read Turkish of the guide please visit [my blog](http://omer.beden.net/tensorflow-ile-plaka-tanima/)
 + Tensorflow version 1.15.2
 + Python version 3.6.9
 ![application](/app.png)
