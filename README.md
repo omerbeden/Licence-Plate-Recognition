@@ -1,5 +1,7 @@
 # Licence-Plate-Recognition
 Licence Plate Recognition Using Tensorflow Object Detection API
+Tensorflow version 1.15.2
+Python version 3.6.9
 ![application](/app.png)
 ## Introduction
 In this repository , I used Tensorflow Object Detection API on both train and inference time.It is very common API that could use.There is a few things you should do if you want to get this application as same as mine. I use the Tensorflow API on **Google COLAP**
